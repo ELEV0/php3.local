@@ -14,6 +14,7 @@ if ( isset($photos[$id]) ) {
     ?>
 
 
+
     <!doctype html>
     <html lang="ru">
     <head>
